@@ -3,3 +3,4 @@ pass.text
 *.log
 node_modules/
 !from.log
+about.html
