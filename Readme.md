@@ -6,5 +6,6 @@ Best ways are:
 - Sleep 
 - Code
 - Repeat
+- And repeat
 
 ## Thank you
